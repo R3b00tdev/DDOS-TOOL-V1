@@ -1,0 +1,4 @@
+aiohttp>=3.8.0
+aiohttp-socks>=0.7.0
+aiodns>=3.0.0
+cchardet>=2.1.7
